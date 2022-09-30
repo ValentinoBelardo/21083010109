@@ -1,1 +1,0 @@
-while kondisi o do o perintah o done o Contoh : o #!/bin/bash o a=0 o o while [ $a -lt 10 ] o do o echo $a o a=$((a + 2)) done
